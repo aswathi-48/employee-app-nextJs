@@ -1,0 +1,67 @@
+.mui-r6ewbb-MuiToolbar-root {
+    justify-content: space-between;
+}
+
+.css-19r6kue-MuiContainer-root {
+    background-color: black;
+}
+
+
+/* Navigation */
+.nav_items ul{
+    display: flex;
+    column-gap: 30px;
+    /* justify-content: flex-end; */
+    cursor: pointer;
+}
+li {
+    list-style: none;
+}
+
+
+
+.mui-r6ewbb-MuiToolbar-root {
+    justify-content: space-between;
+}
+.css-r6ewbb-MuiToolbar-root {
+    justify-content: space-around;
+
+}
+
+
+.css-1slfyks-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: blue !important;
+}
+.css-17vbbkv-MuiPaper-root-MuiTableContainer-root {
+    box-shadow: none !important;
+}
+.css-k06902-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: blue !important;
+
+}
+.css-18kaqrh-MuiButtonBase-root-MuiButton-root:hover {
+    background-color: blue !important;
+
+}
+/* employee page styles */
+
+.css-n3fyjk-MuiDataGrid-root {
+    margin-top: 20px;
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-virtualScrollerContent .MuiDataGrid-row {
+
+    align-items: center;
+    
+}
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-columnHeaderTitleContainer{ 
+    justify-content: center;
+}
+
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-cell--textLeft {
+    display: flex;
+    align-items: center;
+}
+.css-n3fyjk-MuiDataGrid-root .MuiDataGrid-withBorderColor {
+    background-color: gray !important;
+}
